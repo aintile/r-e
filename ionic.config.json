@@ -1,0 +1,8 @@
+{
+  "name": "R&E",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fab8642b"
+}
